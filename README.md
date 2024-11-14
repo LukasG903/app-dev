@@ -2,7 +2,8 @@
 
 **Director:** Justin Lin  
 **Writers:** Chris Morgan  
-**Starring:** Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster, Tyrese Gibson, Ludacris, Sung Kang
+**Starring:** Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster, 
+              Tyrese Gibson, Ludacris, Sung Kang   
 **Genre:** Action, Crime, Thriller  
 **Duration:** 130 minutes  
 **Rating:** PG-13
